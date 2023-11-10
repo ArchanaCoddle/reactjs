@@ -1,0 +1,33 @@
+img{
+    height: 100%;
+    width: 100%;
+}
+p{
+    display: block;
+}
+.MainHead{
+    display: flex;
+}
+.logoimg{
+    width: 150px;
+    height: 150px;
+}
+.logoimg img{
+    border-radius: 50%;
+} 
+.rightHead{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+}
+.middle{
+    flex: 4;
+    text-align: center;
+}
+.CaptionHeading{
+    font-size: 40px;
+}
